@@ -27,5 +27,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ##### Angular Material テーマのカスタマイズ
-* [Create your own Angular 5 Material Theme](https://coursetro.com/posts/code/116/Create-your-own-Angular-5-Material-Theme)
+* [Create your own Angular 5 Material Theme](https://coursetro.com/posts/code/116/Create-your-own-Angular-5-Material-Theme) ☆☆☆
 
+* [Angular Materialのカスタムテーマを設定する](https://qiita.com/daikiojm/items/7b77edb49306d29f389d)
